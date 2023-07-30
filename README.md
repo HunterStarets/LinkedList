@@ -16,15 +16,13 @@ This repository contains the source code of my custom implementation of the Link
 
 ## Usage
 
-Simply instantiate a new `HunterLinkedList` and use its methods as per requirement. 
+Simply instantiate a new object and use its methods as per requirement. 
 
-\```java
 HunterLinkedList<Integer> list = new HunterLinkedList<>();
 list.push(1);
 list.push(2);
 list.push(3);
 System.out.println(list.peek());
-\```
 
 This will output `1`, which is the first element of the list. Other methods can be used in a similar fashion.
 
