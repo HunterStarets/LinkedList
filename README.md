@@ -1,6 +1,6 @@
 # LinkedList Project
 
-This repository contains the source code of my custom implementation of the Linked List data structure, written in Java. The project was developed as part of ITIS 1213 Intro to Computer Science II class. The assignment required coding the Linked List from the ground up, without relying on pre-existing libraries. The resulting code serves as a clear demonstration of my skills as Java developer.
+This repository contains the source code of my custom implementation of the Linked List data structure, written in Java. The project was developed as part of ITIS 1213 Intro to Computer Science II class. The assignment required coding the Linked List from the ground up, without relying on pre-existing libraries. The resulting code serves as a demonstration of my skills as Java developer.
 
 ## Features
 
