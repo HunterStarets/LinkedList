@@ -1,6 +1,6 @@
 # LinkedList Project
 
-This repository contains the source code of my custom implementation of the Linked List data structure, written in Java. The project was developed as part of ITIS 1213 Intro to Computer Science II class. The assignment required coding the Linked List from the ground up, without relying on pre-existing libraries. The resulting code serves as a demonstration of my skills as Java developer.
+This repository contains the source code of my custom implementation of the Linked List data structure, written in Java. The project was developed as part of ITIS 1213 Intro to Computer Science II class. The assignment required coding the Linked List from the ground up, without relying on pre-existing libraries.
 
 ## Features
 
@@ -16,7 +16,7 @@ This repository contains the source code of my custom implementation of the Link
 
 ## Usage
 
-Simply instantiate a new object and use its methods as per requirement. 
+Instantiate a new object and use its methods as per requirement. 
 
 HunterLinkedList<Integer> list = new HunterLinkedList<>();
 list.push(1);
@@ -25,11 +25,3 @@ list.push(3);
 System.out.println(list.peek());
 
 This will output `1`, which is the first element of the list. Other methods can be used in a similar fashion.
-
-## Contribution
-
-This is an academic project and contributions are not open. 
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
